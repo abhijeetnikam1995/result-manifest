@@ -16,7 +16,7 @@ spec:
         app: result
     spec:
       containers:
-      - image: abhijeetnikam1995/results:3
+      - image: abhijeetnikam1995/results:1
         name: result
         ports:
         - containerPort: 80
